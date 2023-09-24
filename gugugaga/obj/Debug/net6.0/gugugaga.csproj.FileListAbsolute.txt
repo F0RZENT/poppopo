@@ -1,0 +1,15 @@
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\bin\Debug\net6.0\gugugaga.exe
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\bin\Debug\net6.0\gugugaga.deps.json
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\bin\Debug\net6.0\gugugaga.runtimeconfig.json
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\bin\Debug\net6.0\gugugaga.dll
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\bin\Debug\net6.0\gugugaga.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.csproj.AssemblyReference.cache
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.AssemblyInfoInputs.cache
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.AssemblyInfo.cs
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.csproj.CoreCompileInputs.cache
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.dll
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\refint\gugugaga.dll
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\gugugaga.genruntimeconfig.cache
+C:\Users\glebg\OneDrive\Рабочий стол\gugugaga\obj\Debug\net6.0\ref\gugugaga.dll
